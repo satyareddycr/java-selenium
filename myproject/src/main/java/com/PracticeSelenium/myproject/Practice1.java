@@ -32,6 +32,7 @@ public class Practice1 {
 		Thread.sleep(2000);
 		driver.findElement(By.xpath(null));
 		driver.findElement(By.cssSelector(null));
+		System.out.println('fngdkngkj');
 
 	}
 
